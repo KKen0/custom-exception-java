@@ -17,10 +17,10 @@ If any rule is violated, the corresponding custom exception is thrown and a help
 - User input validation
 
 ## Excepted Inputs and Outputs
-++Inputs:++
+++ Inputs:
 - Username and passwords entered by the user during account creation
 
-++Outputs:++
+++ Outputs:
 - Error messages when a built-in or custom exception occurs
 - Confirmation when a username and password meet all validation rules
 - At last displays a list of all accounts successfully created.
